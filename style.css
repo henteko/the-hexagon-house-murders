@@ -1,0 +1,19 @@
+#title {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+#title > h1 > span {
+  color: red;
+}
+
+#title > h1 > small {
+  color: gray;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+button {
+  width: 100%;
+}
