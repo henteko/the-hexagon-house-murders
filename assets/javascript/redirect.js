@@ -1,0 +1,1 @@
+location.href = "https://riddory.com/stories/the-hexagon-house-murders/";
